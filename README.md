@@ -1,5 +1,5 @@
-DRDropShadow iOS Library
-=====================
+DRDropShadow for iOS
+====================
 
 UIView category for applying drop shadow
 
